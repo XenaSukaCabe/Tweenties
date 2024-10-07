@@ -42,7 +42,7 @@ ul li a:hover{
     position: absolute;
     top: 55%;
     left: 32%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%;-50%);
 }
 .title h1{
     font-family:  sans-serif;
